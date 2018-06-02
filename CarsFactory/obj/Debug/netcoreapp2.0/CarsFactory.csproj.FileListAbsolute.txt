@@ -1,0 +1,11 @@
+F:\_repository\CarsFactory\CarsFactory\bin\Debug\netcoreapp2.0\CarsFactory.deps.json
+F:\_repository\CarsFactory\CarsFactory\bin\Debug\netcoreapp2.0\CarsFactory.runtimeconfig.json
+F:\_repository\CarsFactory\CarsFactory\bin\Debug\netcoreapp2.0\CarsFactory.runtimeconfig.dev.json
+F:\_repository\CarsFactory\CarsFactory\bin\Debug\netcoreapp2.0\CarsFactory.dll
+F:\_repository\CarsFactory\CarsFactory\bin\Debug\netcoreapp2.0\CarsFactory.pdb
+F:\_repository\CarsFactory\CarsFactory\obj\Debug\netcoreapp2.0\CarsFactory.csprojResolveAssemblyReference.cache
+F:\_repository\CarsFactory\CarsFactory\obj\Debug\netcoreapp2.0\CarsFactory.csproj.CoreCompileInputs.cache
+F:\_repository\CarsFactory\CarsFactory\obj\Debug\netcoreapp2.0\CarsFactory.AssemblyInfoInputs.cache
+F:\_repository\CarsFactory\CarsFactory\obj\Debug\netcoreapp2.0\CarsFactory.AssemblyInfo.cs
+F:\_repository\CarsFactory\CarsFactory\obj\Debug\netcoreapp2.0\CarsFactory.dll
+F:\_repository\CarsFactory\CarsFactory\obj\Debug\netcoreapp2.0\CarsFactory.pdb
